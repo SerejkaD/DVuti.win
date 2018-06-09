@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.free-kassa.ru	TRUE	/	FALSE	1999999999	__cfduid	df0ae48e7de7683cf65184f0165d49bd01528520608
+
